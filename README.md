@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @testgithubrobert
-- 👀 I’m interested in programming
+- 👋 Hi, I’m robb
+- 👀 I’m interested in programming mainly backend development
 - 🌱 I’m currently learning git
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ssekabirarobert0372gmail.com
+- 📫 How to reach me ssekabirarobert037gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
