@@ -1,5 +1,5 @@
-- 👋 Hi, I’m robb
-- 👀 I’m interested in programming mainly backend development
+- 👋 Hi, I’m robert sims
+- 👀 I’m interested in programming mainly mern stack development
 - 🌱 I’m currently learning git
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ssekabirarobert037gmail.com
