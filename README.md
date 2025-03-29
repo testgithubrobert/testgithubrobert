@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming mainly mern stack development. You can visit my portfolio on https://robertsims.netlify.app to know more about me and also view my recently uploaded projects.
 - 🌱 I’m currently learning git and react.js
 - 💞️ I’m looking to collaborate on fullstack and big projects
-- 📫 How to reach me robertsims7076.com
+- 📫 How to reach me robertsims7076@gmail.com, ssekabirarobert037@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
